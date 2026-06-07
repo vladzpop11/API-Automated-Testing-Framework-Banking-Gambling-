@@ -1,0 +1,11 @@
+# Baza de date generata local
+transactions.db
+
+# Rapoartele generate de Robot Framework
+log.html
+report.html
+output.xml
+
+# Fisiere de cache Python
+__pycache__/
+*.pyc
