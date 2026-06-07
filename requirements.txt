@@ -1,0 +1,5 @@
+flask
+robotframework
+robotframework-requests
+requests
+allure-robotframework
